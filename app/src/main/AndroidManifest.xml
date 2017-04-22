@@ -3,6 +3,7 @@
     package="com.greenthumb.greenthumb">
 
 
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 
@@ -14,7 +15,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyAplzrlzv3OWfmdCmG1-ZH8YHT27QgUfE8" />
@@ -37,6 +37,19 @@
         <activity android:name=".Maps.MapsActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"
             ></activity>
+
+        <activity android:name=".Vision.VisionActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            ></activity>
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.greenthumb.greenthumb.android.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
     </application>
 
 </manifest>
