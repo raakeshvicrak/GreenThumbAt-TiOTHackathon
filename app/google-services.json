@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "342835954170",
+    "firebase_url": "https://greenthumbhackathon.firebaseio.com",
+    "project_id": "greenthumbhackathon",
+    "storage_bucket": "greenthumbhackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342835954170:android:1663d9d95d0be0f1",
+        "android_client_info": {
+          "package_name": "com.greenthumb.greenthumb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342835954170-56orerl71q3ujl4crdkve0h3k7j5a7gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOTkLfPLYeUjTb1dj9qQunJyO4v-w1MzE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">GreenThumb</string>
+    <string name="app_name">Green Thumb</string>
+
+    <!--Strings for image description-->
+    <string name="subscription_key">4d4b114f3e0f47469ad6fbb6a0582fda</string>
+    <string name="add_subscription_key_tip_title">Computer Vision</string>
+    <string name="add_subscription_key_tip">Please put your subscription key to source file \"app/res/values/strings.xml\" to enable Vision API calls.</string>
+
 </resources>
