@@ -9,6 +9,7 @@ import android.widget.TextView;
 
 import com.greenthumb.greenthumb.LayoutDisplay.LayoutDisplay;
 import com.greenthumb.greenthumb.LayoutPoints.LayoutPointsDBUpdater;
+import com.greenthumb.greenthumb.Maps.MapsActivity;
 import com.greenthumb.greenthumb.Utils.FontAssetHelper;
 
 public class LayoutActivity extends AppCompatActivity {
@@ -49,7 +50,7 @@ public class LayoutActivity extends AppCompatActivity {
         @Override
         public void onClick(View view) {
             if(view.getId() == addFarm.getId()){
-                Intent intent = new Intent(LayoutActivity.this, LayoutDisplay.class);
+                Intent intent = new Intent(LayoutActivity.this, MapsActivity.class);
                 startActivity(intent);
             }
         }

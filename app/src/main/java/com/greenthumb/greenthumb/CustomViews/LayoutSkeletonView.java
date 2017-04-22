@@ -9,6 +9,7 @@ import android.graphics.Paint;
 import android.graphics.Path;
 import android.util.AttributeSet;
 import android.util.DisplayMetrics;
+import android.util.Log;
 import android.view.View;
 
 import com.greenthumb.greenthumb.LayoutMetrics.LayoutMetricsPojo;
@@ -40,7 +41,7 @@ public class LayoutSkeletonView extends View {
         init(context);
     }
 
-    public LayoutSkeletonView(Context context, AttributeSet attrs, int defStyleAttr) {
+    public LayoutSkeletonView(Context context, AttributeSet attrs, int defStyleAttr){
         super(context, attrs, defStyleAttr);
         init(context);
     }
@@ -61,7 +62,7 @@ public class LayoutSkeletonView extends View {
         double height_ratio=layoutheight/768.0f;
         double width_ratio=layoutwidth/1024.0f;
 
-        if(layoutPoints.contains("#")){ //NO I18N
+        if(layoutPoints.contains("#")){//NO I18N
             differentLayoutPaths=layoutPoints.split("#"); //NO I18N
         }
         else{
@@ -74,12 +75,13 @@ public class LayoutSkeletonView extends View {
         */
         for (int j=0;j<differentLayoutPaths.length;j++){
             this.layoutPoints=differentLayoutPaths[j].split(";"); //NO I18N
-
+            Log.e("layoutpoints ", layoutPoints.toString());
             for (int i=0;i<this.layoutPoints.length;i++){
                 String[] temp=this.layoutPoints[i].split(","); //NO I18N
                 if(temp.length==2){
                     if(!temp[0].equals("1")){ //NO I18N
                         if(isMainLayout==false){
+                            Log.e("temp ", Float.parseFloat(temp[0])+"");
                             temp[0]=String.valueOf(Float.parseFloat(temp[0])*width_ratio);
                         }
                     }
@@ -99,7 +101,7 @@ public class LayoutSkeletonView extends View {
         /*
         * Code for forming path which is used in onDraw();
         */
-        for (int j=0;j<layoutPoints_List.size();j++) {
+        for (int j=0;j<layoutPoints_List.size();j++){
             this.layoutPoints = (String[]) layoutPoints_List.get(j);
             Pt[] myPath = new Pt[this.layoutPoints.length + 1];
 

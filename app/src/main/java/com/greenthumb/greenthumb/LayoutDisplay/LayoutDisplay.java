@@ -34,11 +34,15 @@ public class LayoutDisplay<T> extends AppCompatActivity implements LayoutSelecti
     private int layout_width_individual=0,layout_height_individual=0,viewpager_totalno=0, difference=0;
     RelativeLayout layoutselectormain;
     ArrayList<T> layout_sets_rows,layout_points_rows;
+    private String latitude = "", longitude = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_layout_display);
+
+        latitude = getIntent().getStringExtra("lat");
+        longitude = getIntent().getStringExtra("lng");
 
         layoutselectormain=(RelativeLayout)findViewById(R.id.layoutselectormain);
 
