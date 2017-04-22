@@ -3,741 +3,858 @@
 
     <item
         is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/d40321c8d7892e82d9d72cfa7b5de262c696ebb3/output/jars/classes.jar"
-        jumboMode="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/aac87bcd097ecf424507fe2a7feba1ffcebb5369/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="bf803332f826adea247cc452d0bb04d7943f0007">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ecce1c50964bae39f2ef2bf9518bb9418e42d9ba/classes.dex" />
+        sha1="6d16df2955bbd154b36819386cfd2e3b7f7cae5b">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e0d610700eb8471fc7f3b6cd6d33bd0ec04e44a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/446d8d26d7c8a83a38725c0d6bcc77c6fa6db9a1/output/jars/classes.jar"
-        jumboMode="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/0d08f5a0614521e4fd693a159645fdce7c463fe8/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="73699fb64ea3de4a43d0f5c37dc525a5e1341ca1">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f589d3ab9643e2060717313859f04a0c90138b7/classes.dex" />
+        sha1="ea5537e2a88ce0497d3e2272b1cf93f2e0c77b0d">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6e5029c161eeac09d7a5456adc319b89b8efded/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/6fabf37430572f01278be73c87e8f285e1ff216e/output/jars/classes.jar"
+        jar="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_781da4351d5f3f0551671459f8a04d19cdb254b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/d27309fa7e35eea26c52eece1f46c974998af5c4/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="415336382149f2a79eb80599e340e188f6724d6d">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_64ab43061cae59c17f27610079d9bc786d969b16/classes.dex" />
+        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_f69bd1b317eef63e57ef3f1eede68a3c5c4f3477.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/34c7eee191471fdde52daf0ea618fe0b35f6ef6e/output/jars/classes.jar"
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/3c26cda74b92415be8eaee5e5edf05dba626abb6/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d8df645e51289d9f5720c6813248f6b5d15a93a0/classes.dex" />
+        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_c3dc61151d23e53283c8e919be97ce3bb79ae0d2.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/99503341e77d703c37015eb009d2de380e8613ec/output/jars/classes.jar"
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/78a1efa0422a805c5bf31777c02c8a80c2d5e906/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_78ff2157f5833dd8b76cdeb4c8c0d64d3fd6854b/classes.dex" />
+        sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_936f58fa90cd3691fb0616c2a82f41b1d8b5a509.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/abd5689ac9a1d989c4149f697521a75432325c1e/output/jars/classes.jar"
+        jar="/Users/raakeshpremkumar/.gradle/caches/modules-2/files-2.1/com.google.gms/google-services/3.0.0/ee538ce9cf4148485e43017c5542202b8c78ff8e/google-services-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee538ce9cf4148485e43017c5542202b8c78ff8e">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-services-3.0.0_1eb55575c5c3e2f180545470e9f0649de02be0a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/68c5e7dbf9296cb32929e3a666b4debd299b4928/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="266e4ac186afacc3b220a0cf8382348283b42407">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_531a0e103a783cda03f9652bf7ed9abcad7f0378/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/27a361c2f9344001db957da78341cb6f265c3f7d/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="6079f942bb34faee179b4c46396a26fbbfc43e5d">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e9d2e44dd63fd2129066ec0c7ce83b37f2c88ea/classes.dex" />
+        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_8a43db42217102e99750dd600bda17ff3af12c81.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/74ae0408ba0493d41622af2e0a4818476b1462e6/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ebf985be182798e6322fee8fe437b14ee6bb8609">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0501b53db77b90788c8709fc5ac53d941256530d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/92b183c8607b2063c7ea373d0aa0e253fbfc15e4/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ce5313bb5ccc0c1e10c995e4efb2f2b08c848b39">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30db9b2a9bf728a9ac70a4e144d02df0e5e8e2a9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/143e7c86becaa6752ba655f5a1d486a22e6ff1e0/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="53f7fbab5e6f4149eb5a1cdeabaeeeee11a84ebe">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38bb20bb63eeddfcaa1db973e5bdcf950d523b00/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/a9a9d9a3e764fe62be8b83fa03a3b57146c4c8f0/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f2c9c986087e5862518757d0c988c8eac1a47bfd">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6a5e1b75e53ec956187e075eb102ac0646b6ed3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/07853356903c8eabf8a2aaff41b5f3e4ed2ee83b/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ba2f029ff37297295d2d197ac6e957b361bfccaf">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c92ea93f2dd22b739f9445589af92cdff506d0eb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/7789498dd01f822e8b7193b27299dc6e6a9edda5/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="938ba83fbb26987368049237e47718d56e91e222">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_487d9b14ddd483a9db36c32f32c12342e08aa272/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/d621a454f6d3fcec60a1a22ac4e2a4134238acd9/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c997b6e0a5a18d2e26e29842c15ac14fa544de0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/f2b664225f662c5bf53e9c4cb7d0d7117deb6364/output/jars/classes.jar"
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/72ad17e74cee4f3445b4740f31d9fe9e16637066/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_147e837c8a1c0fe3a1d8f736bf027c8601651385/classes.dex" />
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_cbb1d7f83c67bb95cda7af19ddeb75ff31fe300c.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/8e6f9897a3fd58be534ad525a3844e9fa856d69a/output/jars/libs/commons-io-2.4.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_317802f58c112ff7af364ab093ee6ff44e4449fb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/420e960a31fb72fbece0814e5d07a05eeb0cec9f/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0fee5f9760d49db565d842ea19c9e9509d4d66c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/1356ec1f953124e0e6a620a90aebdec6863a8679/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d06b7a1587e6455f33d2709eb536a8709ab5b666/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/8b4edb9835c01da3630e89fbc15675c9860a5bef/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1bf2ceb0034efe20249a561096f6e288cce7a0a4">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb76efce6625c15f4626370d2325a3ea2e18ca52/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/728ac7a5f3e142309fd252a483fdf5c7f7152fac/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_209700d0ba06cda4b7e068453bfd21166587817a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/17c8413204f1f9387f3da0c301e9275e182a7d31/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4cfc5a74aa9453cbec685cdbcb3e3f3539b483bd">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1fa38082a9e66a060653763e755a44262bed43ed/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/34ea0638a1278f98199762a282735398bd35b345/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7161ba8fbc8f9c7098bb9e101bdd47cf173d1b2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_560614c06bb16025b445b27aef0890f48f5424c6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/3ffcf511d3dfd46eb1ae659752acb488d29707ae/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a5da6fc5a6f39aee309ae6ae670e1b942759dc51">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c2accc81eb8b6fb394589f770342c1dd015762d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/6d03301b3bc1079623847c3aa3caa20823e5f975/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bfd0abf25c59b1a16a282f3e45f40250772b7ae1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/4ab1b5a0ea3df57827287e29da6c24057dbe3c25/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_746dfc302bc810d2c3639d3217c5a7e5761c23c6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/2516f7f6cc6b698fbccd91879856131e2ee4ea95/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_184d09bd2a3b4326d572431312637a786d18f6ab/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/9741ef70ea4ae8a527625a239c614db15777d4c9/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8ac09931704b91e7b4d281f5e34b3b006b628c22">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_55e10fad5876693ecb23b782e6bab342d5beb327/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_a445a9f72d0cd4edeee7f7fadc6a0900c0699235/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.gradle/caches/modules-2/files-2.1/com.google.gms/google-services/3.0.0/ee538ce9cf4148485e43017c5542202b8c78ff8e/google-services-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ee538ce9cf4148485e43017c5542202b8c78ff8e">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-services-3.0.0_12e559a8785e94a59e3135ca1cf96b8a4a9f64ae/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/1622f7aedfd417a94016cb92d753a829a79a5841/output/jars/classes.jar"
-        jumboMode="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/20447695908bf3c3eabb716260961854636db11b/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="d1e7862a5a7675940acb6efcab34b38de89c9e18">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77ef09b2448fea5a98b6038ef20f3532a4e3f21f/classes.dex" />
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f3a3742fd2161de010a69e5e28866e54377554aa/classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/eeab267b82258a6915e548ee887bb03f0f2458b1/output/jars/classes.jar"
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/8ea9877c94662b42ba83f4b972d1007f4b0b418a/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1632b6ef31c3d55cf352a079f1dcf7a400770799/classes.dex" />
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_fa5c1291257f56468246803986fe7bb94beb0b6e.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/7d120017d2956a6c1ce8481ced790feff1eb53aa/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="5243af50631020511cf2403789678149b1a319e6">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cdd7f868d0a6ac75893ba55889ec01b86a876de9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_a38e537b6cb0a28a0d3528898b9fcd3dd94119ee/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/f2b664225f662c5bf53e9c4cb7d0d7117deb6364/output/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_ccc5ce3bfe3d25b4cd4ee4349b504756e1b048f9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/7c1efda13c7a4545aa0125676ca5de5fe96ada03/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0aebac827e1fbdaef0a666cd8e008694991549aa/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/e59f0d76ab61a4240b09402cbb7b07f83f853318/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_760faf080f80354b8c0e9c3e6e4c371166bc90be/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/61718f76ebd64a71c0fd1f2e05288369ccf79127/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f29b4c6b9cdc417eee54a0752f4cb79e6413a76e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/c0dba0285c8e77466c7099e2bf6507f44593e712/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="300e72616fdf265bb36bff7adb1ebec7b1d72817">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_37571dfd5d468edfa57483a1d9df4cc8d07d11b9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/4cdeba7af339d4a6d596ab6587c741fabd6464cb/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7357a05eea2a049c33488c7e8c6f887b3483d4b8">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_10d26defba6b96060cf7dda7742d9d39547f5f22/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/08d572b1bcfdc2dc2180eaf94f4ae6fe7ac9bb5c/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1376245d998a1cfa12ec65d9ef6568ae600b221/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/187e31d2c2a69784a04c8377d60ddea99d60580e/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="266e4ac186afacc3b220a0cf8382348283b42407">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_863aa1bf58812986f4202f3c2be090e79cb99017/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/d1f405d767ab5824635efcd3d49a3b6986988b47/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="43ab9b69758a0f22706629223c367e9bd478e1a8">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7dcacfc7250cd189d1a12556e2e15495656993c7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/185a8b35fac9273b369d7017053a9b1db21964c0/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a19290adf9633bf2b3dee9eaffc490390dc0869d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.4_74f4770c38478565f893441fdbb9505091273395/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/83674ada5f259b3e6eb87438dadf3de6b11443db/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3270d392adef5decc7bace1a3c2e749bec7bf19e">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0ca645a310c33e28047c26ed378057e99881e1f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/6d7ec4cc9048256685fa7d33e5d196edec732531/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6d16df2955bbd154b36819386cfd2e3b7f7cae5b">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf2a7f7a29742f26d92bce224ac2bde5ae45a0eb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/8e6f9897a3fd58be534ad525a3844e9fa856d69a/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="67b8b173442028b7e2d7d7ef8c8a3f2534efb6f3">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11d1da0e2f9a17bbb7a06b8864d1b0cb5894b3e5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/83b5af62bbff52ddd27ad3989f0d0fa50f4eb949/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ea5537e2a88ce0497d3e2272b1cf93f2e0c77b0d">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d7fae49676ac70ca347ee145595835fce7e53d3f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/fc5943ec77f52ec91e8b7c528aa46b2e4ef43681/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d6f3f429a55cad0381fc6d996185a3f565053d0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/8ee87becbafa03b237013d850bd305eaa804e6d5/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c48db997d87eb3e3ad47713cfbfe7cb878a2e66c">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ccf03e289c4d17c4975fee6abf3e9ad2377cd37/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/9318633888fb018d18b9698d7606ede2bd32da55/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c8cf7ae4a372d86a09bdb13d1eeb47920bab1b6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/a25d27c81ceb6cdf750628b6d14264866bc06765/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="26cd46f7bc6e1f269062b61269317a29329a9a7b">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_faa5d68bed0780aaf1a4f7177ad4c0902f3d718a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/447c3aea8f906c25f1f3231e175492133937a2a5/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ffbb70a0705bf4b14a039d4e31fb00f77f51445/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/66432a30436abfd717b0f4521832d52e45696ef8/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a723c85825d9591baec200523c10662e30c8bed7">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_89a78ff37a0e1fd1642b63f2f0a17478d017f796/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/840eb6d7628c65e7021d65055dc2d8bc538c5f49/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c2e6ba525dbd44e08d63fc88f2a5e6a827c7cc8e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/9eecc7ce137f500440c8b3d8e328082177ab55d1/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3dee1c12d7ee9b7e51a38a3813679a5d9e343bd7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/13f36db0a8ae4829d01cb065dc4a6360d6ab5715/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d57767271a9c140da143ec0db9a0673b6d96eccb">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47f4de20fa6d0523ece8e7dcfcc635b519783172/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/cf1f0013a71dc1750501e0deb9329250e2c0b628/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a921264abff5a933a52f6ddc5f19d87e7f3aa9e9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/fc60fbddb961d1331c2a4cd9910490f891fd72ca/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d8d2530da0b974aad21aaaffe7042be6988db6d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/384706e9d7e40a0b457b94efe5eb31de2774f421/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b713261343d7f604a05a4d1ff6949a8ded179c39/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/7e66667ca314e6238bd475ad0b83d74688f4725d/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca2a00ae27f8886e75d489530ffa60ad66e205b5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/f5f73f82f4ce50d2e343f8942db8134f5a79bd4c/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="eb96a230c7b55d545fbdee45157a5a75b2b26284">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69069134ccbaff6bf5aa9cedb8dd082f5161f55e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/20b6a738de005e8d455e8743a6b42c1e0ce16b9d/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74c9fa7adfc319c87445edd874852464f945bd59/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.gradle/caches/modules-2/files-2.1/commons-lang/commons-lang/2.4/16313e02a793435009f1e458fa4af5d879f6fb11/commons-lang-2.4.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="16313e02a793435009f1e458fa4af5d879f6fb11">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang-2.4_e02f292fb5a288afd2dc8bfed4635de8f4530f2d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/b7881d27507dc29590d87ce909c5ebdb10b7cdd1/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3c433e48557e476290f45fb6cb568d1a103c9978">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b69a0fc9cf499147742a17f7abec69626f571f6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/103da5630df286ded72252f8bc59521aee062ef1/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="12e94600a0ea3beae6ea0f1d18a0768ded5bc1ae">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc3b3486110fed219acda5cb3babb06a9c1e4a5d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/73f84572fc5e219878d8ccfe80829258d43a9631/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eca24555ed9ca3508a4316f04a3b3922a5e96d1e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/86ae24c0d76daa1cf9e9c27c48cb85fa9ec325e8/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3757a479d59cf144a0e0d29fefbe05f319469030/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/31e2ca767c604e4750175f1b181ac0d34cc1bd89/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b1993ebe331f70feb2679351eae739b3f4cc9f0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/d04d23e31c373746f3e88edfde8e6b6b58b80443/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d39f676be8400123523882d189a1d84040d34339">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ac5570770710753eccbfd8a2f62d2cfca288bbf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/778e4e921e56d6c245e896a1491c7ee10dfbc407/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8ba0578448dd0f4a559df8191a7a13106b6c99a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/d1b588371dc0a8785232ac322986339acd55a394/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4ab00b7d310cfdfff3a9446554485647153d0792">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_747b1acd0d5f5a96064221f53f8a79695f5bedcc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/f9ee57499caef6c41c6a784cd8a7ea8d6b3c9aa2/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f4540ad2a6e3741694e9332f0c20607c780fae6c">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6f7134cff29177dbb8bd8728b9a7c552fdc9fef/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/f94be09524bfd1996fef961ebbe6b6c10964a4df/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a917154cf730ea6ec2495705309e6a4065cde2ac">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0fca94002d3b635bb4dbcc52db06e488db7de1fe/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/5384bf3560ce6fafe996d8d870a5925c3eefbe47/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f9df5825630371571db2fcc8f79ec2418b3d03b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_57671a4641e8d4c9e109a441f7578bb08545a659/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/0d6ba88007da60c6e7d4c25c744293f653351e35/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="97e3259dcdaa9b33014a849f6d3bdbb4ef478383">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f53a6df69a503843457ca9675238e9a53878049/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/a7be09b5922b74dbc898ea0561d6df101d0cb59b/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1dfe8cdcb78706ba71d35867cf5be98221461246/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/4f91bf16d466ca97ce4879298f1af1c5669eb412/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9f5c557145ddef094005eb73d72a7eaf330a0cf1">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a6a12649c9888ff6d78d5cc83f7a1b56d6bd606/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_ec4dbadc67245dc606eb1431396cfde1a17e7312/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/efeb44cb1c1b6b15decda8a23b11fb4faa7c8fb8/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="5fef4ad8c5b2519596b80a241d56b69dffcd6845">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67582b9c1d9f1ac59817b999def8108be5d90d0b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/madrinathapa/.android/build-cache/9fc53f9f8603ead6dec489c8fb094677aaf42343/output/jars/classes.jar"
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/a57112bce77f9df13c35ce898155efb6ee3e2535/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
-        <dex dex="/Users/madrinathapa/Documents/GreenThumbAt-TiOTHackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_af0ae28451a1ca43af238a887352007ae7e78c25/classes.dex" />
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_b043cc1371e62f038ef3ee1a88f03e0d675edbfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/4224f524697e1fa5874b655f7368842e140c8d5b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_ce7ef432b57cdd4d4c1c558f92eeadf8d483a450.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/d3851bc69532b046411847575d0529a2f19c1886/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3270d392adef5decc7bace1a3c2e749bec7bf19e">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_39c21ea9b53a807fd22423a9f7bb841f0dcbcc65/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/a6ffe4d97027b2c5c37033d82f247b07c690d54c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_393ce7f68ce62ae2ec909c6207b3dc297061e077.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/1e1a89c01936dddb02e8c4031d34590d92409d39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_639409bd513aa84ae514c663499cb6a8b28b59f7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/af0f56aa58c5bd1710b13c61af9a0350cc360a99/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce5313bb5ccc0c1e10c995e4efb2f2b08c848b39">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fed3e5a52946774fe88024130b3da4e0d2948dd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/094faadc479da86c61952252c80e270fab644153/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_8ebaa8917d6e4c3fd2c5231bbe2f1f6d6f18e0d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/e89800bb99f86cd51709700dadba55959be8af95/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_b637ca9e9bf6aa027bb5819e5e099430c6d9b34b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/09e589fbe95533ca28c0a2c6af16a3bbc356cd8f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d45ef7705b6b1704604b55ce25ba3f74d045a36d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/fd2ab4ed3d7f90f307da01435fbbb6041d07f64c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_249a21f2a1805bb3e2c0e7bddf7125fc4fa2baa3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/e92a83d740ca3419a7d7192c5c584df01c166da7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5fef4ad8c5b2519596b80a241d56b69dffcd6845">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2bd0c2d8985e74e58f711a8476fb6677ef599e9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/fa3745c79b0f59424f23bc76c015cb9fe9744b46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_24faa98288c0cbdb76359227210a7ddca847de36.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/9ec3535e2609a7c1bd926318b2517fac47101fc7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2c9c986087e5862518757d0c988c8eac1a47bfd">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8623fd563225ab9e81dd2143302ff57f19fd9d3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/c1c2083e06cd0ea2b59d14d4c40b13821a14cb2a/output/jars/libs/commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_c6e7452aa4d5e23f97890b45a00e56d14f11ac0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/0fa193e7c6a4392a77d6e40fe8a869a9a9a36481/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_d8ac02d3cdd51e0ffdab0ffcc9b27ec72ee46cdd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/162d6a3d735a135514b8433c890445234f10675d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73699fb64ea3de4a43d0f5c37dc525a5e1341ca1">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2981da7452e9d774265e2555d900c1ed73a2f25c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/dc174edecac4a8a2449a9cde925213256e9c5f41/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26cd46f7bc6e1f269062b61269317a29329a9a7b">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f053f4bbaed49d1898b5c2b0ab5f449b4dd78b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/cd180046dcd2485d6d08c0da27c913238c200b09/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c48db997d87eb3e3ad47713cfbfe7cb878a2e66c">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c06b0a54011bfb8738d96139bc4a30a0314073c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/066d920c42ebfc8e97cffb78ea265aecb4bc492b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_4c2000f6a11be4d3ea135de652ea20f870c8f508.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/bed513b5206807836f5df556ddf9894ff77dc6c6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf803332f826adea247cc452d0bb04d7943f0007">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_659e962635517f49878e35cc081fe2f3c7064cde/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/ec67d9205207d0a5e959b299287c8421ef6d3ba1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_e6ea2e35886f744ded719c85812b6a4afaa8c5dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/5b9ca8ff93c3e6455f600ad3e9e51db87f55ac92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_0079e0d6e8067a81cf12cd10a8d26842c0fbbf9d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/7dcd5aed4c2dbd873e6d064e9eaa8b47381b6fe4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a917154cf730ea6ec2495705309e6a4065cde2ac">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65743e1c510ae49fac6412c0498ce916c4c5b7bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/c7a62b42509ecb3e0af1a916a4e49243b5e4cc67/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb004ea36f8802bad30000e286c177691740a322">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_3f4baef86fe5dd9d0c177b50766220790fa11f6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/2dfab92882859f2da7e0b3d9aea40f8e82c4abaa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_ca1b89f7a2e649a59a67333240415c571a2f74c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/96fc5eea4a0a31837de15a8b93fed3bb64ed1561/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_0159d0e02c2ed3ccc015d86b13a1e6417126a413.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/4344551311c05880ba779932f80c0b902d65a76d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6079f942bb34faee179b4c46396a26fbbfc43e5d">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9cd754be78efde84c6e5ffbb03a90f1061c14834/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/f98e1982c23a206d52fc123c966eace93edd0c16/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_e72b07e14e862ec14e1367b475561286ae5eb294.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/f343b022a157d17c31202a699d6db1ca1ae7b923/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f5c557145ddef094005eb73d72a7eaf330a0cf1">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eed3c62c74ea7a71bee4638fe8b704cf55e0827f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/8440ec98ffa02ae2ef76ddfef1da398ad71baecf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ab00b7d310cfdfff3a9446554485647153d0792">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4fe215efb920faee9431201d665cc8a1d4629383/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/51fcf2a157dd688f82a443c49e32df22a90abbe2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_342d04e23deb278ce1ce1839ff084d324909b8ca.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/c1c2083e06cd0ea2b59d14d4c40b13821a14cb2a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67b8b173442028b7e2d7d7ef8c8a3f2534efb6f3">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f39ccc73012f31681bc4fe3527897c08191d1802/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/4304bbd7dd1a0516881f787eb1dae1bd365fecdb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_a16a2be3492625fcf8d5371a36b702ce97561de0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/99c3f85353ea755a558bab4bd4b1ab00f4b90cfc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_b1f5f038ea5a0aa3836fa0af49c0b54e8d6f3923.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/e0f82c759a4b31697656d62c304dcdfe7ba87e8e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1f9df8b2bfff203397548ee400789154968adfe8">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_99de5875eb73159ce9dfca420f67be571b980c9f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/d75cd64b17e49a877e6cacc6598caa98fc902d85/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb96a230c7b55d545fbdee45157a5a75b2b26284">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b991c223e4883834278749515432355680af7bfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/60aa6ea70c0caf0404360307d3289e499725adab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d57767271a9c140da143ec0db9a0673b6d96eccb">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b003481dbb575ca1cfdbe0959bfd7e446969c0e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/69af98bf4c2e1291cbfcba75b6599000f5ffbad2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_411bd7887d0618fb45ce95340806f53581da9472.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/684baa3f273b0156d64b43bb6fe9d6ade89289ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_6fdf96899a776571c4b6ccc61a913523d54ff20e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/9d0cc59f9e456995178e44133286ef7cc26f49b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_6b51250346e3a2d1c221fd485d8495c6f1a32a90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/9745fa574534dbb3f7112d8387eecf1fe3c87688/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_402ebf9337cf4a64e10e39ff50368786cf3a67f5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.gradle/caches/modules-2/files-2.1/commons-lang/commons-lang/2.4/16313e02a793435009f1e458fa4af5d879f6fb11/commons-lang-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="16313e02a793435009f1e458fa4af5d879f6fb11">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang-2.4_a2727de9c23a4abfe80c34b4a3b095a1b584c6f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/45a408231e9d75b2dc96f731321e39755629e34f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12e94600a0ea3beae6ea0f1d18a0768ded5bc1ae">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db8a54e331166258ca466fe670cebd6153d5faf4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/9b23fcc9ecd1f06d1248a00bc64930bdeb4d1f31/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_3816de2e94fc8eed1701bc6819d1e607af336b3d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.4_78ba4b5c4a58c482039e2369676013bba4242205/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/9b5388fc84a9bdbd8045451704761aa907d552fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43ab9b69758a0f22706629223c367e9bd478e1a8">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc7436d71d0baa8e687bd705f42e820cef8a3e41/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/2245264f5972713b3431ab21a6f922fcb377d6ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_b438490579b04d8b1b83aaa82fc22808d0023912.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/ca8c20148546249324339429869e2cecfb37fe5e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="300e72616fdf265bb36bff7adb1ebec7b1d72817">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb3eaa36d0fe52f353e0cb0db5f9fe65cc53a925/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="957bc250c89fc2d7953a62efa63895d3004a627b">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4f90d271aa172dd60186e9aa7ea2aefff14ac32c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/70d8222dc54cfe71408d8ff548c8cd9d58b2e298/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_f07b5728628e19c3199e3bae271f236b2b576384.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_c0a72430f94f6a18a708a07411b85b9166928929.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/ed6421ebacf0b1b799ef79a843d0cfcced570acf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e684205744f814a73b7752545e0661330415c9e">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_e173aae99e5088461ae72d959fc4966a3331eb80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/2bb1ed3730256c1b795069466c29dba27518b1c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_7a723d8f76f14edf667c78641ae608e25b40ee77.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/cd1d1f23b129991e5cbe447974ef82806715ab9e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="938ba83fbb26987368049237e47718d56e91e222">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d90db198f68ac014eed4bfdd926f1f53ecbebed9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/ef931546e4395a0b647218666a8b3eda524e869e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="415336382149f2a79eb80599e340e188f6724d6d">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d4c6cf0367f18d0605879668c41f5638af446ffb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/c5d93197ec39a9561b7605faa28535fbb3245e00/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce5792fa30ee8520620f298bf920309423b180f">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_daa252079d79e46b008c536cdd6608e0c9948ff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/7c98d244dac566f2a56f15907ca4991ba2ce2dc4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_2e921ca0dd6f9612edd2239068695a4d1ef8409e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/c3f980a2a6a0969874dfd573951f37e2c1fb7871/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_58de642fae3d5c16ffbfaaaec3e5723807c5bfa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/72ad17e74cee4f3445b4740f31d9fe9e16637066/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_9aab97d4c85320f5bbada7d92a7eeab4e164994e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/f8417f07701274a96209df7bf05ba225158c7fd3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4540ad2a6e3741694e9332f0c20607c780fae6c">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56a1c61c6e04885d9b0d83f0889b6fac048e69b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/1df215f73e9a5e242f8f0e2a2683483eefbcabf4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_d9c6270489c9eb964c4193d942053bd6714a1b10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/691daa53e1aca36c3ed863f80deecbf9ef7216a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_b7c44f72da5d727afc0b97f4c182295cf1bc8fe3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/96d7dee15b60b0eda7bde8ba7134041c4be3cac5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4cfc5a74aa9453cbec685cdbcb3e3f3539b483bd">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c85bfc297b686cac0ceed600c3f64cd40229f0ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/a76fe7d21f11841c4dad76d7400fa643f441b868/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efae381df589f3d4977c346c8a980f030315bb8b">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_b1ead11997bb2db78f1959cd0f175df578e468f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/dc2e8a8391b574531f9070275eb8b3c0be1a4352/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_306d197b6e4feeea62514d911d417a4fab306c2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/84d94d53d70a384740e7e9c1ea29c2898b4e65f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_bac5eda174455766bd37ef59ca821fbf5a0c6846.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/30f63d5c754dff620bcef7d068250647e6f2d5ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="97e3259dcdaa9b33014a849f6d3bdbb4ef478383">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d94421cd2ab6514282668d0c2abb5ed8fc09a95/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/4a7f87a4915973475420a58b787a974437cd5d54/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="125bce1fb2d481b964fabf75f0949957ebe9ecd1">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_a9680857ee8922ee152835f464b03f57634deee0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/caca11aef8ae6062f20db241624f3ca4022031e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a723c85825d9591baec200523c10662e30c8bed7">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_101352d4e524b89530f1bae45c9bccbffa358176/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/864398b7c26b868f1773d896e8359652ab1cfba4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7357a05eea2a049c33488c7e8c6f887b3483d4b8">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f4a398bcba2e2a0af10c4fe26c7b2404fe46d0c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/ace9be413d0bf65cd1acdfb81d8ad0213c8e63e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_02e81dfcf3fc293093f172f8153e50d0642f1368.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/a680f7c0d5a85987f87c4bd2c9e2164eb501f7c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_bbd1fbab4f48d0a4a497d153a940b01210f01671.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/88ea0a8ac7f309e744a3f18b260b3ef30ac0b82f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_f9939c1c874cc062f9271e191db6e083b0b64945.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/857afb210bfcbc4df17a0c6bae9406025eec202e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_b2cea094ee68b62ad4a0377efb071a32b077c407.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/b41507ba372f1cc8c1b0ee63b52d82dd352ad1a0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a5da6fc5a6f39aee309ae6ae670e1b942759dc51">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0fb9a1d455866d396e39f4023de6eb77c0ceab5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/1f5e625341da7b52406ccb01262de8f1b8353e78/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_778cea808615584ff556351b7fbcf53b8649dc84.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/fdaf557adeb390ed63c3c77b5a47870e65f98503/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bf2ceb0034efe20249a561096f6e288cce7a0a4">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7dfbda1c5d98d0b9ceeb85410b913fd6f5262bf5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/cd817fdda757c8f126e65ab3c1f1bd2bf3404ad9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_b55bc180c7dc71604e58a826306d249c962e42b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/022d499be68044379140d640d7a9a33680bc0504/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_7d6928c79e893be40ef226cb738722030d3894ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/e8fa2a81a31526e19699e7684983c4658c3052b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_419ea6681797051d89824e97288fea4a6fc1824c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/7bbf7729c898735840983755e346a5be8e354497/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_bdd46af54b21e3634628e59744f9a340bbdddc58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raakeshpremkumar/.android/build-cache/c57fd14cf67997650ce5445b6d93c3c65c319bc1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/pre-dexed/debug/classes_1f1726abc3a679e3dbb3b38d0b7ce1352a9b6b35.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raakeshpremkumar/.android/build-cache/4b54d2995c6eea3f7a088209134f535a0c24290f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53f7fbab5e6f4149eb5a1cdeabaeeeee11a84ebe">
+        <dex dex="/Users/raakeshpremkumar/Documents/GreenThumb2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b3d85aaacb367dd468a27a3edbd644a32e09d32/classes.dex" />
     </item>
 
 </items>

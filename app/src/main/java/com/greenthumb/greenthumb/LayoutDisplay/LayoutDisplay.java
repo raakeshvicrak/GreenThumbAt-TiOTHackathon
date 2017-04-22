@@ -203,7 +203,7 @@ public class LayoutDisplay<T> extends AppCompatActivity implements LayoutSelecti
     }
 
     @Override
-    public void slideLayoutSelected(int points_sno) {
+    public void slideLayoutSelected(int points_sno){
         Intent intent=new Intent(LayoutDisplay.this, SlideLayoutCreator.class);
         intent.putExtra("points_sno",String.valueOf(points_sno)); //NO I18N
         startActivity(intent);

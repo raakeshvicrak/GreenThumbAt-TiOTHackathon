@@ -1,1 +1,1 @@
-include ':app', ':vision-1.0.393'
+include ':app'

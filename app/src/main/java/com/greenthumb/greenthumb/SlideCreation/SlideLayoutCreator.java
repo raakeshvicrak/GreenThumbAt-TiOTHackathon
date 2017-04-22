@@ -1,9 +1,14 @@
 package com.greenthumb.greenthumb.SlideCreation;
 
+import android.content.DialogInterface;
 import android.content.Intent;
+import android.graphics.Color;
 import android.graphics.Typeface;
 import android.os.Bundle;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
+import android.text.Html;
+import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.animation.Animation;
@@ -45,6 +50,8 @@ public class SlideLayoutCreator<T> extends AppCompatActivity {
     private ArrayList<Polygon> myPolygonList=new ArrayList<Polygon>();
     private byte previousActiveGrid=-1,touchCount=0;
     private byte current_controllerparent=-1,current_controllerchild=-1;
+    private AlertDialog alertDialog;
+    private byte alertopen = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -225,6 +232,39 @@ public class SlideLayoutCreator<T> extends AppCompatActivity {
                 for (int i=0;i<myPolygonList.size();i++){
                     if(myPolygonList.get(i).contains(touch_point)){
 
+                        alertopen++;
+                        Log.e("ontouch ", i+" position ");
+
+                        alertDialog = new AlertDialog.Builder(SlideLayoutCreator.this).create();
+                        alertDialog.setTitle("Farm Activity");
+                        if (i == 0){
+                            alertDialog.setMessage("Fruit Texture : Red"
+                                    + "/n" + "Percentage completed - 90%");
+                        }
+                        if (i == 1){
+                            alertDialog.setMessage("Fruit Texture : Green"
+                                    + "/n" + "Percentage completed - 50%");
+                        }
+                        if (i == 2){
+                            alertDialog.setMessage("Fruit Color : Red"
+                                    + "/n" + "Percentage completed - 90%");
+                        }
+                        if (i == 3){
+                            alertDialog.setMessage("Fruit Color : Yellow"
+                                    + "/n" + "Percentage completed - 20%");
+                        }
+
+                        alertDialog.setButton(AlertDialog.BUTTON_NEUTRAL, "OK",
+                                new DialogInterface.OnClickListener() {
+                                    public void onClick(DialogInterface dialog, int which) {
+                                        alertopen = 0;
+                                        dialog.dismiss();
+                                    }
+                                });
+                        if(alertopen == 1) {
+                            alertDialog.show();
+                        }
+                        alertDialog.setCancelable(false);
                         /*
                          * when the same grid is touched more than once consecutively.
                          */
